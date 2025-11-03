@@ -4,3 +4,5 @@ numpy
 ipykernel
 seaborn
 scikit-learn
+scipy
+xgboost
